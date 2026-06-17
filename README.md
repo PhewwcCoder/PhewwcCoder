@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhewwcCoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhewwcCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=PhewwcCoder&theme=tokyonight&hide_border=true" alt="github streak" />
 </p>
 
@@ -56,7 +56,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhewwcCoder&theme=tokyonight&hide_border=true&layout=default&langs_count=8" alt="top languages bar chart" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhewwcCoder&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages bar chart" />
 </p>
 
 ---
